@@ -1,6 +1,6 @@
 # bom-sms
 Bomber SMS
-git clone https://github.com/Fikri041001/bom-sms/
+git clone https://github.com/risertseccrew/bom-sms/
 cd bom-sms-all
 unzip bom-sms-all
 cd bom-sms-all
